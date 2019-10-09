@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+//Author:FreeLoopPowter@20191009
 //函数指针数据类型 Calc为名称
 //1、首先书写 (*函数指针名称)
 //2、再加上 (参数类型 参数名称[,参数类型 参数名称])
